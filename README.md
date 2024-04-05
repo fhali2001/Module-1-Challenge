@@ -14,7 +14,7 @@ Store your Excel workbooks here in this new space, and create a sharable link fo
 
 Download the following files to help you get started:
 
-[Module 1 Challenge files](Links to an external site.)
+[Module 1 Challenge files](https://static.bc-edx.com/data/dl-1-2/m1/lms/starter/Starter_Code.zip)
 
 ### Instructions
 
